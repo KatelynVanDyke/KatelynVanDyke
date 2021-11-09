@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**KatelynVanDyke/KatelynVanDyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is to become a full stack web app devloper. Keep reading to see my progress!
 
-Here are some ideas to get you started:
+#### Mastered
+* HTML
+* CSS
+* JavaScript
+* WordPress
+* Figma
+* Microsoft Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### In Progress
+* PHP
+* SQL
+* Python
+* Node.js
+* GCP
+
+#### Applications of Skills
+* Blogs
+* E-commerce sites
+* HTML games
+* Front end API integration
