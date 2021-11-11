@@ -14,11 +14,10 @@ My goal is to become a full stack web app devloper. Keep reading to see my progr
 * PHP
 * SQL
 * Python
-* Node.js
 * GCP
 
 #### Applications of Skills
 * Blogs
 * E-commerce sites
 * HTML games
-* Front end API integration
+* And more!
