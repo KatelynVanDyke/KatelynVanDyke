@@ -13,11 +13,12 @@ My goal is to become a full stack web app devloper. Keep reading to see my progr
 #### In Progress
 * PHP
 * SQL
-* Python
-* GCP
+* React.js
 
 #### Applications of Skills
 * Blogs
+* Portfolios
 * E-commerce sites
+* Event websites
 * HTML games
 * And more!
