@@ -8,9 +8,6 @@ UI + ML/AI Tools for Developers
 * HTML/CSS/JS
 * Java/Swift
 
-## Stats
-[![Katelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatelynVanDyke)](https://github.com/anuraghazra/github-readme-stats)
-
 ```text
   ___  __  ____  ____    __  ____     __   ____  ____ 
  / __)/  \(    \(  __)  (  )/ ___)   / _\ (  _ \(_  _)
