@@ -1,12 +1,6 @@
 # Katelyn Van Dyke
 
-UI + ML/AI Tools for Developers
-
-## Languages
-* C/C++/C#
-* Python
-* HTML/CSS/JS
-* Java/Swift
+Software Developer & ML/AI Researcher
 
 ```text
   ___  __  ____  ____    __  ____     __   ____  ____ 
