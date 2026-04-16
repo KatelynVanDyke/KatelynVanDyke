@@ -1,11 +1,6 @@
 # Katelyn Van Dyke
-
-Software Developer & ML/AI Researcher
-
-```text
-  ___  __  ____  ____    __  ____     __   ____  ____ 
- / __)/  \(    \(  __)  (  )/ ___)   / _\ (  _ \(_  _)
-( (__(  O )) D ( ) _)    )( \___ \  /    \ )   /  )(  
- \___)\__/(____/(____)  (__)(____/  \_/\_/(__\_) (__)
-
-```
+Currently conducting research in...
+* Machine learning
+* Computer vision
+* Cybersecurity
+* Robotics
